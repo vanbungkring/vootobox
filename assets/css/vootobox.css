@@ -1,0 +1,10 @@
+body{
+	background:#494343;
+}
+.voo-logo{
+	width: 300px;
+	overflow: hidden;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 100px;
+}

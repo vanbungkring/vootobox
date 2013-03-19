@@ -1,1 +1,28 @@
-body{background:#494343;font-family:'Open Sans',sans-serif}.voo-logo{height:300px;margin:100px auto 0;overflow:hidden;width:300px}.landing-compact{width:100%;margin-top:40px;background:#ccc;height:610px}.menu{background-color:#222;background-image:none;background-repeat:no-repeat;filter:none}
+body {
+  background: url(http://fh.unpad.ac.id/wp-content/themes/yoo_subway_wp-1/images/background/ambient/ambientturquoise.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+}
+.voo-logo {
+  height: 300px;
+  margin: 100px auto 0;
+  overflow: hidden;
+  width: 300px;
+}
+.landing-compact {
+  width: 100%;
+  margin-top: 40px;
+  background: #ccc;
+  height: 610px;
+}
+.menu {
+  background-color: #222;
+  /* background color will be black for all browsers */
+
+  background-image: none;
+  background-repeat: no-repeat;
+  filter: none;
+}
